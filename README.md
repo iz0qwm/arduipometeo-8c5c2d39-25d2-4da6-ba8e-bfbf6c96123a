@@ -1,7 +1,7 @@
 # Arduipometeo
 
 ## About This Project
-Look at the main page of the project [arduipometeo](https://github.com/iz0qwm/arduipometeo)
+
 
 
 ## Renderings
